@@ -1,15 +1,15 @@
 {
     "@context": [ "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
-        "https://raw.githubusercontent.com/hotavocado/tokenlogger-joshua/master/protocols/TokenLogger_behavior/TokenLogger_behavior_context"
+        "https://raw.githubusercontent.com/hotavocado/tokenlogger-naomi/master/protocols/TokenLogger_behavior/TokenLogger_behavior_context"
     ],
     "@type": "reproschema:Protocol",
     "@id": "TokenLogger_behavior_schema",
-    "skos:prefLabel": "Token Logger (Joshua)",
+    "skos:prefLabel": "Token Logger (Naomi)",
     "schema:description": "Award tokens for behaviors",
     "schema:image": "https://raw.githubusercontent.com/ChildMindInstitute/tokenlogger-images/main/png/coin.png",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
-    "landingPage": "https://raw.githubusercontent.com/hotavocado/tokenlogger-joshua/master/protocols/TokenLogger_behavior/README.md",
+    "landingPage": "https://raw.githubusercontent.com/hotavocado/tokenlogger-naomi/master/protocols/TokenLogger_behavior/README.md",
     "ui": {
         "addProperties": [
             {"variableName": "TokenActivity_behavior_schema",

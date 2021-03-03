@@ -1,7 +1,7 @@
 {
     "@context": {
         "@version": 1.1,
-        "token": "https://raw.githubusercontent.com/hotavocado/tokenlogger-joshua/master/activities/TokenActivity_behavior/items/",
+        "token": "https://raw.githubusercontent.com/hotavocado/tokenlogger-naomi/master/activities/TokenActivity_behavior/items/",
         "token_screen": {
             "@id": "token:token_screen",
             "@type": "@id"

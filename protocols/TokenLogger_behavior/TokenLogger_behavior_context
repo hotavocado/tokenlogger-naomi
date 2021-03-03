@@ -1,7 +1,7 @@
 {
     "@context": {
         "@version": 1.1,
-        "activity_path": "https://raw.githubusercontent.com/hotavocado/tokenlogger-joshua/master/activities/",
+        "activity_path": "https://raw.githubusercontent.com/hotavocado/tokenlogger-naomi/master/activities/",
         "TokenActivity_behavior_schema": {
             "@id": "activity_path:TokenActivity_behavior/TokenActivity_behavior_schema",
             "@type": "@id"
