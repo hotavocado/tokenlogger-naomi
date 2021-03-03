@@ -1,0 +1,29 @@
+{
+    "@context": [ "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/hotavocado/tokenlogger-joshua/master/activities/TokenActivity_behavior/TokenActivity_behavior_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "TokenActivity_behavior_schema",
+    "skos:prefLabel": "Award tokens",
+    "schema:description": "Award tokens for behaviors",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "scoringLogic": {},
+    "ui": {
+        "addProperties": [
+            {"isAbout": "token_screen",
+            "variableName": "token_screen",
+            "isVis": true
+            },
+            {"isAbout": "record_notes",
+            "variableName": "record_notes",
+            "isVis": true
+            }
+        ],
+        "order": [
+            "token_screen",
+            "record_notes"
+        ],
+        "shuffle": false
+    }
+}
