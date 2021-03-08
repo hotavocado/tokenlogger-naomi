@@ -4,7 +4,7 @@
     ],
     "@type": "reproschema:Field",
     "@id": "record_notes",
-    "question": "\r\n\r\n![describe.png](https://raw.githubusercontent.com/ChildMindInstitute/tokenlogger-images/main/png/describe.png =200x200)\r\n\r\nPlease record some notes about the behavior(s) here (triggers, intensity, etc):",
+    "question": "\r\n\r\n![describe.png](https://raw.githubusercontent.com/ChildMindInstitute/tokenlogger-images/main/png/describe.png =200x200)\r\n\r\nPlease record some notes about the behavior(s) here:",
     "ui": {
         "inputType": "text",
         "allow": [
