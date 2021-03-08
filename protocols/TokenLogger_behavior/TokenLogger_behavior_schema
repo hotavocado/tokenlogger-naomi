@@ -4,7 +4,7 @@
     ],
     "@type": "reproschema:Protocol",
     "@id": "TokenLogger_behavior_schema",
-    "skos:prefLabel": "Token Logger (Naomi)",
+    "skos:prefLabel": "Token Logger (N.S.)",
     "schema:description": "Award tokens for behaviors",
     "schema:image": "https://raw.githubusercontent.com/ChildMindInstitute/tokenlogger-images/main/png/coin.png",
     "schema:schemaVersion": "0.0.1",
