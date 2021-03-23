@@ -18,11 +18,16 @@
             {"isAbout": "record_notes",
             "variableName": "record_notes",
             "isVis": true
+            },
+            {"isAbout": "thank_you",
+            "variableName": "thank_you",
+            "isVis": true
             }
         ],
         "order": [
             "token_screen",
-            "record_notes"
+            "record_notes",
+            "thank_you
         ],
         "shuffle": false
     }
