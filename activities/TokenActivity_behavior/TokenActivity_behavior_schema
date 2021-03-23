@@ -27,7 +27,7 @@
         "order": [
             "token_screen",
             "record_notes",
-            "thank_you
+            "thank_you"
         ],
         "shuffle": false
     }
