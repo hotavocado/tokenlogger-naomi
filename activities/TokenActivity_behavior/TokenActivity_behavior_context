@@ -9,10 +9,6 @@
         "record_notes": {
             "@id": "token:record_notes",
             "@type": "@id"
-        },
-        "thank_you": {
-            "@id": "token:thank_you",
-            "@type": "@id"
         }
     }
 }
