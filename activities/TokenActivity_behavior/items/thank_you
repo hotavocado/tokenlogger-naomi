@@ -4,7 +4,7 @@
     ],
     "@type": "reproschema:Field",
     "@id": "thank_you",
-    "question": "\r\n\r\n![thank_you.png](https://raw.githubusercontent.com/ChildMindInstitute/compliance-applet/main/images/checked.png=200x200)\r\n\r\n Thank you! Tapping the **Done** button will exit the questionnaire."
+    "question": "\r\n\r\n![thank_you.png](https://raw.githubusercontent.com/ChildMindInstitute/compliance-applet/main/images/checked.png=200x200)\r\n\r\n Thank you! Tapping the **Done** button will exit the questionnaire.",
     "ui": {
         "inputType": "markdown-message"
     }   
